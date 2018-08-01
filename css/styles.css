@@ -3,6 +3,18 @@
   float: left;
 }
 
+#column1 {
+  background-color: red;
+}
+
+#column2 {
+  background-color: yellow;
+}
+
+#column3 {
+  background-color: orange;
+}
+
 .image {
   width: 100%;
 }
