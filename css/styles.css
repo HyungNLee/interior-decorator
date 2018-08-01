@@ -1,0 +1,20 @@
+.column {
+  width: 33%;
+  float: left;
+}
+
+.image {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.text {
+  padding: 0px 20px;
+}
